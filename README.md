@@ -62,4 +62,5 @@ Quando o usuário clicar na visualização da reprodução na tela de Home ou Li
 
 
 Todas as telas podem ser melhores visualizadas [aqui](https://share.proto.io/UP15GH/)
+
 Protótipo realizado no [proto.io](https://proto.io/)
