@@ -64,3 +64,6 @@ Quando o usuário clicar na visualização da reprodução na tela de Home ou Li
 Todas as telas podem ser melhores visualizadas [aqui](https://share.proto.io/UP15GH/)
 
 Protótipo realizado no [proto.io](https://proto.io/)
+
+## Considerações
+O aplicativo android Soar é um projeto desenvolvido por ![Lhaís Rodrigues!](https://github.com/lhaisrs) para a cadeira de ![Programação 3!](https://if1001.github.io/) da UFPE. 
