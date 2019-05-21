@@ -66,4 +66,4 @@ Todas as telas podem ser melhores visualizadas [aqui](https://share.proto.io/UP1
 Protótipo realizado no [proto.io](https://proto.io/)
 
 ## Considerações
-O aplicativo android Soar é um projeto desenvolvido por ![Lhaís Rodrigues!](https://github.com/lhaisrs) para a cadeira de ![Programação 3!](https://if1001.github.io/) da UFPE. 
+O aplicativo android Soar é um projeto desenvolvido por [Lhaís Rodrigues](https://github.com/lhaisrs) para a cadeira de [Programação 3](https://if1001.github.io/) da UFPE. 
