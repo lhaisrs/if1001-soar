@@ -18,14 +18,14 @@ Você pode realizar o seu cadastro [aqui](https://www.soarmp3.com/signup/) e con
 
 ## Aplicativos similares:
 - [DitanGo](https://play.google.com/store/apps/details?id=br.com.ditango.app&hl=pt_BR)
-- ![Text To Speech!](https://play.google.com/store/apps/details?id=com.bestappltd.texttospeech&hl=pt_BR)
-- ![Text To MP3!](https://play.google.com/store/apps/details?id=com.dev.malik.m2m&hl=pt_BR)
+- [Text To Speech](https://play.google.com/store/apps/details?id=com.bestappltd.texttospeech&hl=pt_BR)
+- [Text To MP3](https://play.google.com/store/apps/details?id=com.dev.malik.m2m&hl=pt_BR)
 
 ## UI Design
 
 #### Splash Screen
 
-Conhecida como a tela inicial do aplicativo que aparece enquanto os seus componentes e serviços estão sendo carregados. A splash screen será apresentada durante 2 a 3 minutos enquanto em background os serviços estarão sendo carregados.
+Conhecida como a tela inicial do aplicativo que aparece enquanto os seus componentes e serviços estão sendo carregados. A splash screen será apresentada durante 2 a 3 segundos enquanto em background os serviços estarão sendo carregados.
 
 ![Splash Screen!](/assets/SplashScreen.png "Soar - Splash Screen")
 
